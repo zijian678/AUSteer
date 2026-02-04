@@ -1,7 +1,7 @@
 # AUSteer
 
 **Fine-Grained Activation Steering: Steering Less, Achieving More**  
-**ICLR 2026** · OpenReview: https://openreview.net/forum?id=guSVafqhrB
+**ICLR 2026** · [Paper](https://openreview.net/forum?id=guSVafqhrB)
 
 Breaking LLM blocks into **fine-grained atomic units (AUs)** for targeted intervention—**steer less, achieve more**.
 
