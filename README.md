@@ -10,9 +10,9 @@ Breaking LLM blocks into **fine-grained atomic units (AUs)** for targeted interv
 ## Table of Contents
 
 - [Preparation](#preparation)
+- [Data](#data)
 - [Quick Start](#quick-start)
 - [Reproducing Results](#reproducing-results)
-- [Data](#data)
 - [Key Modules](#key-modules)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
@@ -37,6 +37,14 @@ pip install -r requirements2.txt
 
 ---
 
+## Data
+[Download Dataset Here](https://drive.google.com/file/d/1BV3eUSoluUiCtWcQ5M52dM1HfBNe5w-D/view?usp=sharing)
+[Download AU Ranks Here (Optional)](https://drive.google.com/file/d/13EpYY25lMj1nqmDQ_I27TvJ73talbs48/view?usp=sharing)
+- Datasets are located in the `datasets/` directory.
+- AU ranks (per model and task) are provided in the `AU_ranks/` directory.
+
+---
+
 ## Quick Start
 
 
@@ -58,12 +66,7 @@ Logs will be written to `reproduce_result.log`.
 
 ---
 
-## Data
 
-- Datasets are located in the `datasets/` directory.
-- AU ranks (per model and task) are provided in the `AU_ranks/` directory.
-
----
 
 ## Key Modules
 
