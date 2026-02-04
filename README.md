@@ -86,8 +86,8 @@ For questions, please contact **feng0119 AT e.ntu.edu.sg**.
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{RestoreLCC2025,
-  title     = {Restoring Pruned Large Language Models via Lost Component Compensation},
+@inproceedings{austeer2026,
+  title     = {Fine-Grained Activation Steering: Steering Less, Achieving More},
   author    = {Zijian, Feng and Tianjiao, Li and Zixiao, Zhu and Hanzhang, Zhou and Junlang, Qian and Li, Zhang and Jia Jim Deryl, Chua and Lee Onn, Mak and Gee Wah, Ng and Kezhi, Mao},
   booktitle = {The Fourteenth International Conference on Learning Representations},
   year      = {2026},
