@@ -39,10 +39,9 @@ pip install -r requirements2.txt
 
 ## Quick Start
 
-If you have a main entry script, for example:
 
 ```bash
-python main.py
+python main_test.py --model meta-llama/Llama-2-7b-chat-hf --data_name boolq --k 100 --alpha 15 --applied_module attention
 ```
 
 ---
